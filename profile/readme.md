@@ -4,9 +4,9 @@ We are Bleulegs, the team heading to Sydney to participate in the International 
 #
 
 ### Our Members
-**Linus** - Team Leader
+**Rylan** - Team Leader - Innovation Project & Robot Game
 
-**Rylan** - Innovation Project & Robot Game
+**Linus** - Code leader & Robot Game
 
 **Aejab** - Innovation Project
 
