@@ -1,21 +1,19 @@
-# Welcome to Bleulegs!
-We are Bleulegs, the team heading to Sydney to participate in the International Round of First Lego League representing Australia!
+# Welcome to Team Bleulegs!
+We are Bleulegs, a national award winning FIRST Lego League team from Australia!
 
-#
+## Members
+[**Rylan**](https://github.com/rgabr0) - Team Leader
 
-### Our Members
-**Rylan** - Team Leader - Innovation Project & Robot Game
+[**Linus**](https://linuskang.au) - Innovation Leader
 
-**Linus** - Code leader & Robot Game
+**Aejab** - Innovation Project & Robot Game
 
-**Aejab** - Innovation Project
+**Charles** - Design Leader, Innovation Project & Robot Game
 
-**Charles** - Robot Game
+**Pray Patel** - Design, Documentation & Robot Game
 
-#
+**Xavier Ashton** - Robot Game & Innovation Project
 
-Visit our Team Page -> https://bleulegs.au
+## Links
 
-Visit LR Marine Tech, our new company -> https://LRMarineTech.bleulegs.au
-
-#
+Team website: https://bleulegs.au
